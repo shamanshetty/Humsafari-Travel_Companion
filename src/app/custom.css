@@ -1,0 +1,66 @@
+/* Target the overall chatbot container */
+.react-chatbot-kit-container {
+    background-color: #093109; /* Match the green background color */
+  }
+  
+  /* Target the chat container */
+  .react-chatbot-kit-chat-container {
+    background-color: #093009; /* Match the green background color */
+    border-radius: 30px; /* Add some roundness to the chat container */
+  }
+  
+  /* Target the chat inner container */
+  .react-chatbot-kit-chat-inner {
+    background-color: #072207; /* Match the green background color */
+    border-radius: 150px; /* Add some roundness to the chat container */
+  }
+  
+  /* Target the chat header */
+  .react-chatbot-kit-chat-header {
+    background-color: #0d3a08; /* Set a complementary color for the header */
+    color: white; /* Set the text color to white for better contrast */
+    border: none; /* Remove the default header border */
+    padding: 12px 16px; /* Adjust the padding for a more compact header */
+  }
+  
+  /* Target the chat message container */
+  .react-chatbot-kit-chat-message-container {
+    background-color: #c3fbc3; /* Match the green background color */
+  }
+  
+    /* Target the chat message content */
+.react-chatbot-kit-chat-message-content {
+    background-color: #beebbe; /* Match the green background color */
+    color: #a4e0a2; /* Set the text color to a complementary color */
+    padding: 15px 15px; /* Adjust the padding for a more compact message */
+    border-radius: 15px; /* Add some roundness to the message bubbles */
+  }
+  
+
+ .react-chatbot-kit-chat-bot-message {
+    background-color: #054e05; /* Match the green background color */
+    color: #a2e9a0; /* Set the text color to a complementary color */
+    padding: 15px 15px; /* Adjust the padding for a more compact message */
+    border-radius: 15px; /* Add some roundness to the message bubbles */
+ }
+  
+  /* Target the chat input field */
+  .react-chatbot-kit-chat-input {
+    background-color: #6deb6d; /* Match the green background color */
+    color: #152f16; /* Set the text color to a complementary color */
+    font-size: 14px; /* Slightly reduce the font size for a cleaner look */
+    border: none; /* Remove the default input border */
+    outline: none; /* Remove the default input outline */
+    width: 100%; /* Ensure the input field takes up the full width */
+  }
+  
+  /* Target the chat send button */
+  .react-chatbot-kit-chat-btn-send {
+    background-color: #072704; /* Set a complementary color for the button */
+    color: rgb(163, 237, 126); /* Set the text color to white for better contrast */
+    border: none; /* Remove the default button border */
+    border-radius: 30%; /* Make the button round */
+    padding: 8px 12px; /* Adjust the padding for a more compact button */
+    font-size: 16px; /* Slightly increase the font size for the button */
+    cursor: pointer; /* Add a pointer cursor for better interactivity */
+  }
