@@ -1,4 +1,5 @@
-#Humsafari AI
+# Humsafari AI
+
 Humsafari is a travel planner, developed by me.
 It is a next.js chatbot that helps you plan your net trip.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
