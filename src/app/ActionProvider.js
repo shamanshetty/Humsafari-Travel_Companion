@@ -27,7 +27,6 @@ class ActionProvider {
       this.createCustomMessage = createCustomMessage
     }
 
-
     callGenAI = async (prompt) => {
         const chatCompletion = await openAI.chat.completions.create({
             model: "gpt-3.5-turbo",
