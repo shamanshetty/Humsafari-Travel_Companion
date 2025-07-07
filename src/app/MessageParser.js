@@ -3,7 +3,6 @@ class MessageParser {
     this.actionProvider = actionProvider;
     this.state = state;
   }
-
   
   parse(message) {
     this.actionProvider.respond(message)
