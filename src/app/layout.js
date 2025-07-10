@@ -12,6 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
 export const metadata = {
   title: "Humsafari",
   description: "Humsafari is a travel companion chatbot that helps you plan your next trip.",
