@@ -4,8 +4,6 @@ const openAI = new OpenAI({
     baseURL: "https://api.aimlapi.com",
     dangerouslyAllowBrowser: true
 })
-
-
 class ActionProvider {
     createChatBotMessage
     setState
